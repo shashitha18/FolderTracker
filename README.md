@@ -83,15 +83,6 @@ I’m excited to share with you the **Folder Tracker & To-Do List**! This is a m
 
 ---
 
-## Future Enhancements 🚀
-
-Here are some planned features that I’d love to add in future updates:
-- **User Authentication**: Add login functionality to enable personalized access.
-- **Dark Mode**: Implement a dark mode for better user experience at night.
-- **Export Data**: Allow users to export folders, tasks, and diary entries as files.
-- **Mobile Responsiveness**: Improve layout for smaller screens.
-
----
 
 ## Contributing 🤝
 
